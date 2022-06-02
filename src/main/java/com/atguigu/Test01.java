@@ -1,8 +1,6 @@
 package com.atguigu;
-
 /**
  * Date:2022/6/2
- *
  * @author:yz
  */
 public class Test01 {
@@ -11,5 +9,4 @@ public class Test01 {
         System.out.println("第一次更新");
         System.out.println("第三次更新");
     }
-
 }
